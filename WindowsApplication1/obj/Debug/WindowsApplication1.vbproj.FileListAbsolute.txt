@@ -1,0 +1,14 @@
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Launcher\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Launcher\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Launcher\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Launcher\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Launcher\WindowsApplication1\bin\Debug\Launcher.exe.config

@@ -1,0 +1,13 @@
+C:\Launcher\WindowsApplication1\bin\Debug\Launcher.exe.config
+C:\Launcher\WindowsApplication1\bin\Debug\Launcher.exe
+C:\Launcher\WindowsApplication1\bin\Debug\Launcher.pdb
+C:\Launcher\WindowsApplication1\bin\Debug\Launcher.xml
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.Form1.resources
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.Resources.resources
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.vbproj.GenerateResource.Cache
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.exe
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.xml
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.pdb
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.vbproj.AssemblyReference.cache
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.vbproj.SuggestedBindingRedirects.cache
+C:\Launcher\WindowsApplication1\obj\Debug\Launcher.vbproj.CoreCompileInputs.cache
